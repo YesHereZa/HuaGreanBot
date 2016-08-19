@@ -3,20 +3,20 @@
 Make sure you check out our [Wiki](https://github.com/YesHereZa/HuaGreanBot/wiki) to get started.
 <br/><br/>
 
-Changelogs
+**Changelogs**
 v0.9.2
-Fixed
+**Fixed**
 - Loop in Request human distance of pokestops...
 - KillSwitch Pokestops GPX
 - Remove yournavigation.org route and added Google route
-Added
+**Added**
 - GoogleAPIKey
 
-v0.9.0
+**v0.9.0**
 - Added Random walkingspeed
-Fixed
+**Fixed**
 - FarmPokestopsGPXTask
-Security
+**Security**
 - Change Default Erypty DLL
 - Change Default Encrypt DLL in FeroxRev
 
