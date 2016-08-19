@@ -9,6 +9,7 @@ v0.9.2<br/>
 - Loop in Request human distance of pokestops...
 - KillSwitch Pokestops GPX
 - Remove yournavigation.org route and added Google route
+
 <br/>**Added**<br/>
 - GoogleAPIKey
 
