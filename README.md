@@ -1,6 +1,6 @@
 # HuaGreanBot
 <h2><a name="getting-started">Getting Started</a></h2>
-Make sure you check out our [Wiki](https://github.com/NoxxDev/NecroBot/wiki) to get started.
+Make sure you check out our [Wiki](https://github.com/YesHereZa/HuaGreanBot/wiki) to get started.
 <br/><br/>
 
 Changelogs
