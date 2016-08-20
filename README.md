@@ -4,6 +4,19 @@ Make sure you check out our [Wiki](https://github.com/YesHereZa/HuaGreanBot/wiki
 <br/><br/>
 
 <br/>**Changelogs**<br/>
+v0.9.3<br/>
+<br\>**Commits**<br\>
+- Update translation.de.json
+- Bahasa Indonesia: fix and update translations
+- Bug fix with Waypoints
+- Improving use of incubators
+- Merge remote-tracking branch
+- update translation.pt-BR.json
+- Fix using WalkingSpeedVariant
+- Fix GPX PokeStopListEvent
+- Fix GPX route @127d2f3
+- Fix show info GoogleAPI
+
 v0.9.2<br/>
 <br/>**Fixed**<br/>
 - Loop in Request human distance of pokestops...
