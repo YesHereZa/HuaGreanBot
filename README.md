@@ -4,6 +4,21 @@ Make sure you check out our [Wiki](https://github.com/YesHereZa/HuaGreanBot/wiki
 <br/><br/>
 
 <br/>**Changelogs**<br/>
+v0.9.4<br/>
+<br/>**Update**<br/>
+- POGOProtos
+- FeroxRev API
+- Enhancement from gps with google walk strategy
+- killswitch settings
+- Visual modification of alert google api
+
+<br/>**Add**<br/>
+- Add more properties to PokemonCaptureEvent
+
+<br/>**Fix**<br/>
+- Fix of the extremely slow walking bug within the new google walking strategy
+- And minor corrections
+
 v0.9.3<br/>
 <br\>**Commits**<br\>
 - Update translation.de.json
