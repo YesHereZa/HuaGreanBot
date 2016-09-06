@@ -4,6 +4,27 @@ Make sure you check out our [Wiki](https://github.com/YesHereZa/HuaGreanBot/wiki
 <br/><br/>
 
 <br/>**Changelogs**<br/>
+v0.9.7<br>
+<br/>**Update**<br/>
+- FeroxRev
+- POGOPortos
+- Spin pokestops if distance minor 30m
+
+<br/>**Add**<br/>
+- Add WebUI
+- UseNearActionRandom - Prevent bot pattern
+- Google and MapQuest elevation service
+- Killswitch Monitor
+- Add Pokemon moves to Telegram /top command
+- Add auto-complete tutorial option
+
+<br/>**Fix**<br/>
+- Lost subPath for multi bot
+- Fix for the bug where lured Pokemons aren't caught when using GPX
+- Fix logic with remove caught pokemon from spining list
+- MSniper JsonDeserialize bug
+<br/>**And minor**<br/>
+
 v0.9.6<br/>
 <br/>**Fix**<br/>
 
